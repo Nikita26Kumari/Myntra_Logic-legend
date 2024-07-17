@@ -1,7 +1,7 @@
 # Myntra Hackathon 2024 : Solution (LOGIC LEGENDS)
 # GROUP MEMBER - NIKITA KUMARI, VIDISHA JAHANVI
 ## Theme of the Challenge : Engagement on a shopping platform
-## Refer to PPT : https://github.com/vidishaaaaa/myntra-logic-legend/blob/main/Myntra_PPT%5B1%5D.pdf
+ 
 ## Table of Contents
 - [Overview](#Overview)
 - [Objective](#Objective)
